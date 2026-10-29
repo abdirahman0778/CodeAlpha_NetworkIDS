@@ -1,0 +1,1 @@
+{"timestamp":"2026-10-29T12:00:00.000000+0300","event_type":"alert","src_ip":"127.0.0.1","dest_ip":"127.0.0.1","alert":{"signature":"CODEALPHA LAB ICMP echo request"}}

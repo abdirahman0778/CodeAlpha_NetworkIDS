@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+logs/
+eve.json
+fast.log
+real_alerts.json
